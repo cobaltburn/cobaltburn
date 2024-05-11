@@ -24,3 +24,11 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=sqlite" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/surrealdb-dark.svg" width="50">
 </div>
+
+- Tools
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=linux,neovim" />
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/surrealdb-dark.svg" width="50">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,gradle,postman" />
+</div>
+
