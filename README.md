@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
+
 - Database
 <div align="left">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50">
@@ -25,10 +26,15 @@ Here are some ideas to get you started:
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/surrealdb-dark.svg" width="50">
 </div>
 
+- Cloud Servers
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=gcp" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="50">
+</div>
+
 - Tools
 <div align="left">
     <img src="https://skillicons.dev/icons?i=linux,neovim" />
     <img src="https://github.com/helix-editor/helix/blob/master/logo.svg" height="50" width="50">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,gradle,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,clion,gradle,postman" />
 </div>
-
