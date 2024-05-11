@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - Database
 <div align="left">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons?i=mysql-dark.svg" width="50">
+    <img src="https://skillicons.dev/icons?i=sqlite" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/surrealdb-dark.svg" width="50">
-    <img src="https://skillicons.dev/icons?i=sqlite" >
 </div>
