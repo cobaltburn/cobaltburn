@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Cloud Servers
 <div align="left">
     <img src="https://skillicons.dev/icons?i=gcp" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/DigitalOcean_icon.svg" width="50">
 </div>
 
 - Tools
