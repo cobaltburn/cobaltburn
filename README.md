@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - Tools
 <div align="left">
     <img src="https://skillicons.dev/icons?i=linux,neovim" />
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/surrealdb-dark.svg" width="50">
+    <img src="https://github.com/helix-editor/helix/blob/master/logo.svg" width="50">
     <img src="https://skillicons.dev/icons?i=git,github,docker,idea,gradle,postman" />
 </div>
 
