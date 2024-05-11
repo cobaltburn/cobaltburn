@@ -54,14 +54,9 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/NAME_OF_ICON.svg"></a>
 </p>
 
-<br/>
-
-<div align="left">
 - Database
-    <table>
-        <tr>
-            <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons?mysql-dark.svg,surrealdb-dark.svg" width="50"></td>
-            <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50"></td>
-        </tr>
-    </table>
+<div align="left">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/surrealdb-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50">
 </div>
+
