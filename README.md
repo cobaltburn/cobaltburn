@@ -31,7 +31,6 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=kotlin,py,gcp,docker" />
 </div>
 
-<br/>
 ---
 
 <p align="center">
