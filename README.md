@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h2>🧰 Languages and Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust" width="50"/>&nbsp;&nbsp;&nbsp
+  <img src="https://skillicons.dev/icons?i=rust" width="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/surrealdb-dark.svg" width="50"/>
   <img src="https://github.com/helix-editor/helix/blob/master/logo.svg" height="50" width="50">
   <img src="https://skillicons.dev/icons?i=go,arch" />
