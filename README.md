@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <img src="https://en.m.wikipedia.org/wiki/Tokio_(software)#/media/File%3ATokio_logo.svg" width="50" />
 </div>
 
-- frontend
+- Frontend
 <div align="left">
     <img src="https://skillicons.dev/icons?i=htmx,go,rust,html,tailwind,js" />
 </div>
