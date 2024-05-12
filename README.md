@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust" />
-  <img src="https://en.m.wikipedia.org/wiki/Tokio_(software)#/media/File%3ATokio_logo.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Tokio_logo.svg" width="50" />
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/surrealdb-dark.svg" width="50"/>
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50"/>
   <img src="https://skillicons.dev/icons?i=go,kotlin,py,gcp,arch,docker" />
