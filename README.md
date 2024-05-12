@@ -25,12 +25,16 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust" width="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/surrealdb-dark.svg" width="50"/>
-  <img src="https://github.com/helix-editor/helix/blob/master/logo.svg" height="50" width="50">
-  <img src="https://skillicons.dev/icons?i=go,arch" />
-  <img src="https://github.com/iced-rs/iced/blob/master/docs/logo.svg" width="50"/>
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50"/>
-  <img src="https://skillicons.dev/icons?i=kotlin,py,gcp,docker" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/surrealdb-dark.svg" width="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/helix-editor/helix/blob/master/logo.svg" height="50" width="50">&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=arch" />&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/iced-rs/iced/blob/master/docs/logo.svg" width="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" />&nbsp;&nbsp;&nbsp;
 </div>
 <br/>
 
