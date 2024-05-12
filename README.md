@@ -25,6 +25,8 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=kotlin,py,gcp,docker" />
 </div>
 
+<br/>
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cobaltburn&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Michael Pederson" width="390"/>
 </p>
