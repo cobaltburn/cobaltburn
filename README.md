@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to optimize queries in multi-model graph databases
 - 💬 Ask me about graph databases
 
+---
+
+## ⚡ Technologies
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust" width="50"/>
   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/surrealdb-dark.svg" width="50"/>
