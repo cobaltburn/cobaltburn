@@ -18,23 +18,44 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
+- Backend
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=rust,go,kotlin,cpp,py" />
+    <img src="https://en.m.wikipedia.org/wiki/Tokio_(software)#/media/File%3ATokio_logo.svg" width="50" />
+</div>
+
+- frontend
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=htmx,go,rust,html,tailwind,js" />
+</div>
+
+- GUI
+<div align="left">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/jetpackcompose-dark.svg" width="50"/>
+    <img src="https://github.com/iced-rs/iced/blob/master/docs/logo.svg" width="50"/>
+</div>
 
 - Database
 <div align="left">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50">
-    <img src="https://skillicons.dev/icons?i=sqlite" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/surrealdb-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50"/>
+    <img src="https://skillicons.dev/icons?i=sqlite" width="50"/>
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/surrealdb-dark.svg" width="50"/>
 </div>
 
 - Cloud Servers
 <div align="left">
     <img src="https://skillicons.dev/icons?i=gcp" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/DigitalOcean_icon.svg" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/DigitalOcean_icon.svg" width="50"/>
 </div>
+
+- Operating Systems
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,windows" />
+</div>
+
 
 - Tools
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=linux,neovim" />
     <img src="https://github.com/helix-editor/helix/blob/master/logo.svg" height="50" width="50">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,clion,gradle,postman" />
+    <img src="https://skillicons.dev/icons?i=neovim,git,github,docker,idea,clion,gradle,postman" />
 </div>
